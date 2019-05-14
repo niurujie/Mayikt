@@ -5,7 +5,7 @@ import com.mayi.AbstractDecorator;
 
 /**
  * @author: create by wangmh
- * @name: LimitDecorator.java
+ * @name: LimitDecorator.java API限流
  * @description:
  * @date:2019/5/14
  **/

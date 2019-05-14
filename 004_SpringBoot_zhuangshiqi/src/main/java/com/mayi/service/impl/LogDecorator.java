@@ -5,7 +5,7 @@ import com.mayi.AbstractDecorator;
 
 /**
  * @author: create by wangmh
- * @name: LogDecorator.java
+ * @name: LogDecorator.java 日志收集
  * @description:
  * @date:2019/5/14
  **/
