@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="010_SpringBoot_Singleton" />
+        <module name="30_手写SpringMVC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="010_SpringBoot_Singleton" target="1.5" />
+      <module name="030_手写SpringMVC" target="1.5" />
+      <module name="30_手写SpringMVC" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
