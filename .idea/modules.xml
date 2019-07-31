@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/30_手写SpringMVC/30_手写SpringMVC.iml" filepath="$PROJECT_DIR$/30_手写SpringMVC/30_手写SpringMVC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Mayikt.iml" filepath="$PROJECT_DIR$/.idea/Mayikt.iml" />
     </modules>
   </component>
 </project>
