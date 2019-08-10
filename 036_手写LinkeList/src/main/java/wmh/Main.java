@@ -11,7 +11,7 @@ import java.util.LinkedList;
  **/
 public class Main {
     public static void main(String[] args) {
-        MyList<String> myList=new MyLinkedList();
+        MyList<String> myList=new MyLinkedList<String>();
         myList.add("第一个元素");
         myList.add("第二个元素");
         myList.add("第三个元素");
